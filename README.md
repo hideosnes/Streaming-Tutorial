@@ -7,8 +7,11 @@ Bei Fragen nutzen Sie bitte entweder die Commit-Funktion von Github, schicken Si
 <p>
  Gerne können Sie dieses Tutorial mit diesem Link teilen: https://github.com/hideosnes/Streaming-Tutorial/ .
 </p>
+<p>
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Ein ungemein wichtiger Appell an <a href="https://twitter.com/UlrikeLunacek?ref_src=twsrc%5Etfw">@UlrikeLunacek</a> ! Nicht nur Trägerorganisatioen sind in Gefahr, sondern auch Kunst- und Kultureinrichtungen, und wie es <a href="https://twitter.com/stefansargnagel?ref_src=twsrc%5Etfw">@stefansargnagel</a> ganz richtig anspricht, auch Künstler*innen, deren Einkommen davon abhängt. <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/e5FukuBoQ9">https://t.co/e5FukuBoQ9</a></p>&mdash; Hideó SNES (@hideosnes) <a href="https://twitter.com/hideosnes/status/1237400543120760835?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> 
+</p>
 
-<h1>Contents</h1>
+<h1>Inhalte</h1>
  <ul>
   <li><a href="#grundlagen">Grundlagen</a></li>
   <li><a href="#hardware">Hardware</a></li>
