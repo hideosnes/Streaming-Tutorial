@@ -31,8 +31,11 @@ Gerne können Sie das Tutorial mit diesem Link teilen: https://github.com/hideos
  <li>Wie will ich diese Contents publizieren?</li>
  <li>Will ich die Publikation monetarisieren?</li>
 </ol>
-<p>In den folgenden Kapiteln werde ich nun versuchen diese Fragen möglichst schlüssig zu erklären und nenne bewusst FOSS-Lösungen, welche den Vorteil haben schnell und einfach verfügbar zu sein, da es sich dabei um "Free and/or Open Source Software" handelt. Software von gängigen Anbietern (zB. Adobe) kann natürlich auch problemlos verwendet werden.</p>
+<p>In den folgenden Kapiteln werde ich nun versuchen diese Fragen möglichst schlüssig zu erklären und nenne bewusst - falls verfügbar - FOSS-Lösungen, welche den Vorteil haben schnell und einfach verfügbar zu sein, da es sich dabei um "Free and/or Open Source Software" handelt. Software von gängigen Anbietern (zB. Adobe) kann natürlich auch problemlos verwendet werden.</p>
 <br>
-<a href="#inhalte">Zurück nach oben.</a>
+<a href="#inhalte">Zu den Inhalten!</a>
+<br>
 <h2 id="#hardware">Hardware</h2>
-
+<p>Ich konzentriere mich bei der Hardware darauf, dass die Konfigurationen solide sind und gleichzeitig möglichst leicht verfügbar.</p>
+<h3>Audio</h3>
+Für einen Podcast genügt meistens sogar die Aufnahmefunktion eines Handys. Im Falle von iPhones ist der eingebaute, aktivierbare "Auto-Equalizer" in der Lage erstaunlich gute Aufnahmen zu produzieren. Equalizer-Software ermöglicht es Usern das Finetuning der Aufnahme vorzunehmen (Lautstärke, Höhe/Tiefen, Bässe, etc.) und ist in den meisten Handys bereits vorinstalliert. Sollten Sie sich dennoch nach einer App-Lösung umsehen wollen, finden Sie mit dem <a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de">Smart Recorder</a> eine geeignete Lösung.
