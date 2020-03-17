@@ -111,7 +111,7 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 <!-- Software -->
 
 <h2 id="#software">Software</h2>
-<p>In diesem Kapitel werde ich mich darauf beschränken getestete FOSS-Produktionspipelines aufzuzählen. Besonders in diesem Kapitel gilt, dass sehr viele Wege nach Rom führen und ich versuche mich daher auf leichte Verfügbarkeit und Automatisierungskapazitäten der Software zu fokussieren.</p>
+<p>In diesem Kapitel werde ich mich darauf beschränken getestete FOSS-Produktionspipelines aufzuzählen. Besonders in diesem Kapitel gilt, dass sehr viele Wege nach Rom führen und ich versuche mich daher auf leichte Verfügbarkeit und Automatisierungskapazitäten der Software zu fokussieren. Download-Links und Alternativen zu den Vorschlägen für Desktop-Software finden Sie auf <a href="https://www.fosshub.com/">Fosshub</a>, einem Verzeichnis für Free and Open-Source Software.</p>
 
 <h3>Audio</h3>
  
@@ -119,12 +119,13 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <a href="https://www.audacityteam.org/"><b>Audacity</b></a>: Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
 
-<a href="https://freesound.org/">Freesound</a>: Download von lizenfreien Audiosamples und Sounds.
+<a href="https://freesound.org/"><b>Freesound</b></a>: Download von lizenfreien Audiosamples und Sounds.
 
-<a href="https://discoverpods.com/best-free-podcast-hosting/">Liste von Podcast Hosts & Directories</a>: Podcast-Host bieten neben Webspace zum Speichern von Audiodateien auch den Vorteil diese Audiodateien für Streams zu optimieren und Podcasts in verschiedenen Verzeichnissen zu listen. Dazu gehören Google Podcast, iTunes, RSS-Verzeichnisse, etc. Es ist aber genauso möglich Podcasts als Audiodatei am eigenen Server zu speichern und die Distribution manuell vorzunehmen.
+<a href="https://discoverpods.com/best-free-podcast-hosting/"><b>Liste von Podcast Hosts & Directories</b></a>: Podcast-Hosts bieten neben Webspace zum Speichern von Audiodateien auch den Vorteil diese Audiodateien für Streams zu optimieren und Podcasts in verschiedenen Verzeichnissen zu listen. Dazu gehören z.B.: Google Podcast, iTunes, Spotify, RSS-Verzeichnisse, etc. Es ist aber genauso möglich Podcasts als Audiodatei am eigenen Server zu speichern und die Distribution per Link manuell vorzunehmen.
 
+<h3>Video</h3>
 
+<a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot&hl=en"><b>InShot</b></a>: Bearbeiten von Video am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=Nb77UsFf5yc">Video Tutorial</a>
 
-Achten Sie hierbei auf das Vorhandensein der nötigen Recording-Software, wie zB. <a href="https://www.audacityteam.org/">Audacity</a>. Sollten Sie Audio-Samples oder diverse Sounds für Ihren Podcast benötigen sei Ihnen <a href="https://freesound.org/">Freesound</a>.)</p>
-
+<a href="https://www.dev47apps.com/"><b>DroidCam</b></a>: Mobiltelefon als 720p <b>USB/Wifi Webcam</b> für PC benutzen. - <a href="https://www.youtube.com/watch?v=dii2nOHniNQ">Video Tutorial</a>
 
