@@ -127,12 +127,28 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot&hl=en"><b>InShot</b></a>: Bearbeiten von Video am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=Nb77UsFf5yc">Video Tutorial</a>
 
-<a href="http://fixounet.free.fr/avidemux/"><b>InShot</b></a>: Bearbeiten von Video am <b>Desktop PC</b> - <a href="https://www.youtube.com/watch?v=thWHaSKx3wA">Video Tutorial</a>
+<a href="http://fixounet.free.fr/avidemux/"><b>Avidemux</b></a>: Bearbeiten von Video am <b>Desktop PC</b> - <a href="https://www.youtube.com/watch?v=thWHaSKx3wA">Video Tutorial</a>
 
 <a href="https://www.pexels.com/videos/"><b>Pexels</b></a> & <a href="https://pixabay.com/videos/"><b>Pixabay</b></a>: Download von lizenzfreien Stock Videos.
 
 <a href="https://www.youtube.com/"><b>Youtube</b></a> & <a href="https://vimeo.com/"><b>Vimeo</b></a>: Upload und Onlinestorage für Videos.
 
+<h3>Live A/V</h3>
+
+<p>Auf Facebook, Instagram und Youtube können Sie out-of-the-box einen Livestream mit ihrem Mobilgerät einrichten.<br>
+Nachdem Sie Ihr <a href="#hardware">Hardware-Setup</a> vorbereitet, eine Streaming-Software installiert und bei der/n sozialen Plattform/en Ihrer Wahl einen Account eingerichtet haben können Sie auf ihrem Desktopgerät mit dem Streaming beginnen:</p>
+
+<a href="https://obsproject.com/"><b>Open Broadcast Software</b></a>: Software zum Encodieren und Hochladen von <b>Livestreams</b> - <a href="https://www.youtube.com/watch?v=K6HllP7LxWk">Video Tutorial</a>
+
+<a href="https://www.xsplit.com/"><b>XSplit</b></a>: Software zum Encodieren und Hochladen von <b>Livestreams</b> - <a href="https://www.youtube.com/watch?v=v9tLRICR1W4">Video Tutorial</a>
+
+<a href="https://restream.io/"><b>Restream</b></a>: Einen Livestream an 30+ <b>Soziale Plattformen</b> gleichzeitig senden.
+<br>
+Neben FB, Insta und YT gibt es folgende Portale, die sich auf das Livestreaming spezialisiert haben:<br>
+
+<a href="https://www.twitch.tv/"><b>TwitchTV</b></a>: Ursprünglich wurde TwitchTV zum Stream von Computerspielen entwickelt, jedoch hat sich inzwischen eine breite Community an Livestreamern zu den verschiedensten Themen gebildet.
+
+<a href="https://mixer.com/"><b>Mixer</b></a>: Als ebenbürtige Alternative zu Twitch gilt Mixer und bietet neben Streams von Computerspielen auch eine Lifestyle-Stream-Community.
 
 
 <a href="https://www.dev47apps.com/"><b>DroidCam</b></a>: Mobiltelefon als 720p <b>USB/Wifi Webcam</b> für PC benutzen. - <a href="https://www.youtube.com/watch?v=dii2nOHniNQ">Video Tutorial</a>
