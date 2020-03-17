@@ -136,7 +136,9 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 <h3>Live A/V</h3>
 
 <p>Auf Facebook, Instagram und Youtube können Sie out-of-the-box einen Livestream mit ihrem Mobilgerät einrichten.<br>
-Nachdem Sie Ihr <a href="#hardware">Hardware-Setup</a> vorbereitet, eine Streaming-Software installiert und bei der/n sozialen Plattform/en Ihrer Wahl einen Account eingerichtet haben können Sie auf ihrem Desktopgerät mit dem Streaming beginnen:</p>
+Nachdem Sie Ihr <a href="#hardware">Hardware-Setup</a> vorbereitet, eine Streaming-Software installiert und bei der/n sozialen Plattform/en Ihrer Wahl einen Account eingerichtet haben können Sie auf ihrem Desktopgerät mit dem Streaming beginnen. Im Grunde gilt, dass Livestreams mit Mobilgeräten schnell und unkompliziert einstellbar sind, jedoch ergeben sich bei Wifi und beschränkten Rechenkapazitäten immer wieder Qualitätsnachteile bzw. akzeptieren manche Streaming-Plattformen Mobilgeräte nicht. Während das Einstellen eines Desktop PC Streams aufwändiger ist, können die meisten Probleme beim Streamen, die zur Minderung von Videoqualität führt, leicht gelöst werden. Ausserdem bietet das Streaming am PC wesentlich mehr Möglichkeiten der Interaktion (zB. Greenscreens) und der <a href="#monetarisierung">Monetarisierung</a> (more pain, more gain :) ).</p>
+
+<a href="https://www.dev47apps.com/"><b>DroidCam</b></a>: Mobiltelefon als 720p <b>USB/Wifi Webcam</b> für PC benutzen. - <a href="https://www.youtube.com/watch?v=dii2nOHniNQ">Video Tutorial</a>
 
 <a href="https://obsproject.com/"><b>Open Broadcast Software</b></a>: Software zum Encodieren und Hochladen von <b>Livestreams</b> - <a href="https://www.youtube.com/watch?v=K6HllP7LxWk">Video Tutorial</a>
 
@@ -149,7 +151,3 @@ Neben FB, Insta und YT gibt es folgende Portale, die sich auf das Livestreaming 
 <a href="https://www.twitch.tv/"><b>TwitchTV</b></a>: Ursprünglich wurde TwitchTV zum Stream von Computerspielen entwickelt, jedoch hat sich inzwischen eine breite Community an Livestreamern zu den verschiedensten Themen gebildet.
 
 <a href="https://mixer.com/"><b>Mixer</b></a>: Als ebenbürtige Alternative zu Twitch gilt Mixer und bietet neben Streams von Computerspielen auch eine Lifestyle-Stream-Community.
-
-
-<a href="https://www.dev47apps.com/"><b>DroidCam</b></a>: Mobiltelefon als 720p <b>USB/Wifi Webcam</b> für PC benutzen. - <a href="https://www.youtube.com/watch?v=dii2nOHniNQ">Video Tutorial</a>
-
