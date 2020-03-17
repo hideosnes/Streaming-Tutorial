@@ -115,11 +115,9 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <h3>Audio</h3>
  
-<a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de"><h4>Smart Recorder</h4></a>
-Aufnehmen, Bearbeiten und Sharing von Audio am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=dW7CdjlfjZE">Video Tutorial</a>
+<a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de"><b>Smart Recorder</b></a>: Aufnehmen, Bearbeiten und Teilen von Audio am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=dW7CdjlfjZE">Video Tutorial</a>
 
-<a href="https://www.audacityteam.org/"><h5>Audacity</h5></a>
-Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
+<a href="https://www.audacityteam.org/"><b>Audacity</b></a>: Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
 
 
 
