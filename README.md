@@ -119,6 +119,10 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <a href="https://www.audacityteam.org/"><b>Audacity</b></a>: Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
 
+<a href="https://freesound.org/">Freesound</a>: Download von lizenfreien Audiosamples und Sounds.
+
+<a href="https://discoverpods.com/best-free-podcast-hosting/">Liste von Podcast Hosts & Directories</a>: Podcast-Host bieten neben Webspace zum Speichern von Audiodateien auch den Vorteil diese Audiodateien für Streams zu optimieren und Podcasts in verschiedenen Verzeichnissen zu listen. Dazu gehören Google Podcast, iTunes, RSS-Verzeichnisse, etc. Es ist aber genauso möglich Podcasts als Audiodatei am eigenen Server zu speichern und die Distribution manuell vorzunehmen.
+
 
 
 Achten Sie hierbei auf das Vorhandensein der nötigen Recording-Software, wie zB. <a href="https://www.audacityteam.org/">Audacity</a>. Sollten Sie Audio-Samples oder diverse Sounds für Ihren Podcast benötigen sei Ihnen <a href="https://freesound.org/">Freesound</a>.)</p>
