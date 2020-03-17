@@ -72,7 +72,7 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <h3>Live A/V</h3>
 
-<p>Auch bei Live Audio/Video übertragungen sei zuerst auf Mobilgeräte verwiesen. Moderne Geräte verfügen inzwischen über genug Rechenkapazität um Live Streams problemlos auf einen aufzunehmen und gleichzeitig auf einen Server zu übertragen. Verwenden Sie bei Bedarf einen 3,5mm TRRS-Plug (Hardware > Audio) um ein externes Mikrophon anzuschliessen. Sämtliche Anbieter werden bei Live Streams am Mobiltelefon automatisch auf die eingebaute Kamera des Mobilgerätes zugreifen und Sie müssen sich sonst um nichts mehr kümmern. <a href="https://www.conrad.com/p/mini-incl-mobile-phone-holder-renkforce-black-white-1511438">Tripods</a> für Mobilgerät werden Ihnen hier die Aufnahme sehr erleichtern.</p>
+<p>Auch bei Live Audio/Video Übertragungen sei zuerst auf Mobilgeräte verwiesen. Moderne Geräte verfügen inzwischen über genug Rechenkapazität um Live Streams problemlos auf einen aufzunehmen und gleichzeitig auf einen Server zu übertragen. Verwenden Sie bei Bedarf einen 3,5mm TRRS-Plug (Hardware > Audio) um ein externes Mikrophon anzuschliessen. Sämtliche Anbieter werden bei Live Streams am Mobiltelefon automatisch auf die eingebaute Kamera des Mobilgerätes zugreifen und Sie müssen sich sonst um nichts mehr kümmern. <a href="https://www.conrad.com/p/mini-incl-mobile-phone-holder-renkforce-black-white-1511438">Tripods</a> für Mobilgerät werden Ihnen hier die Aufnahme sehr erleichtern.</p>
 
 <p>Eine weitere Möglichkeit besteht darin mit einem PC und einer Webcam einen Lifestream anzubieten. 3 Dinge sind dafür notwendig:
  <ol>
@@ -87,13 +87,13 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 <p>Mit <b>Streaming</b> ist in diesem Fall die Aufnahme, (En)Codierung und das Hochladen von Video und Audio Daten ohne Zeitverzögerung (real-time) gemeint.</p>
 
 <p>Das <b>Encoding</b> ist der Prozess rohe ("raw") video und audio daten zu komprimieren ("compression"), damit diese gesendet und angesehen werden kann. Dabei gibt es zwei Möglichkeiten: 1.) Bei <b>Software encoding</b> benutzt eine Software die CPU des Computers um die A/V Daten zu komprimieren. Das ist sehr resourcen-intensiv erlaubt aber eine bessere Bildqualität. 2.) Im Falle von <b>Hardware encoding</b> wird extra Hardware ()benzt, welche die A/V Daten komprimiert.</p>
-n
+
 <p>Die <b>Bitrate</b> beschreibt die Grösse der Datei, welche im Sekundentakt anwächst. Wenn ein Video mit 1500kps (Kilobits pro Sekunde) aufgenommen wird, ergibt das eine Datei, die 188 Kilobyte (1 byte = 8 bit) pro Videosekunde gross ist.</p>
 
 <p><b>Frames-per-second (FPS)</b> ist die Anzahl der Bilder, welche ein Computer pro Sekunde berechnen kann, während dieser eine Aufgabe, wie zB. das Streaming, durchführt. Eine geringe FPS Zahl lässt ein Video ruckelig und abgehackt erscheinen.</p>
 </blockquote>
 
-<p>Anders als bei der Aufnahme von Videos für zB. Youtube, wird beim Streamen keine Videodatei auf Ihrer Festplatte abgelegt, die man bearbeiten oder schneiden könnte. Stattdessen wird das Video live von der Kamera auf einen Server gestreamt, worüber andere Menschen das Video ansehen können. Daher für das Live A/V Streaming ein guter PC gebraucht, damit alle Daten ordentlich am Server ankommen und die Zuseher flüssige, scharfe Videos zu sehen bekommen.<p>
+<p>Anders als bei der Aufnahme von Videos für zB. Youtube, wird beim Streamen keine Videodatei auf Ihrer Festplatte abgelegt, die man bearbeiten oder schneiden könnte. Stattdessen wird das Video live von der Kamera auf einen Server gestreamt, worüber andere Menschen das Video ansehen können. Daher für das Live A/V Streaming ein guter PC gebraucht, damit alle Daten ordentlich am Server ankommen und die Zuseher*innen flüssige, scharfe Videos zu sehen bekommen.<p>
  
 
 
