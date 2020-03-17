@@ -30,7 +30,7 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 <ol>
  <li><b>Audio</b> (z.B.: Podcasts, iTunes, ...)</li>
  <li><b>Video</b> (z.B.: Youtube, Netflix, ...)</li>
- <li><b>Live A/V</b> (z.B.: Facebook, Twitch, ...)</li>
+ <li><b>Live A/V</b> (z.B.: Social Media Liveübertragung, Twitch, ...)</li>
 </ol>
 
 <p>Während man manche Formate relativ einfach mit einem Handy einrichten kann, können sich bei zB. Live A/V Streams durchaus Probleme einschleichen, die das Streaming Erlebnis stark beeinträchtigen. Daher sollte man sich vor dem Einrichten eines Streams folgende Fragen stellen:</p>
@@ -76,7 +76,7 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <p>Eine weitere Möglichkeit besteht darin mit einem PC und einer Webcam einen Lifestream anzubieten. 3 Dinge sind dafür notwendig:
  <ol>
-  <li>Ein Computer mit leistungsstarker Grafikkarte</li>
+  <li>Ein Computer mit leistungsstarkem Prozessor oder Grafikkarte</li>
   <li>Eine Webcam und optional ein (USB) Mikrophon</li>
   <li>Streaming-Software und eine Plattform</li>
  </ol>
@@ -86,15 +86,20 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 
 <p>Mit <b>Streaming</b> ist in diesem Fall die Aufnahme, (En)Codierung und das Hochladen von Video und Audio Daten ohne Zeitverzögerung (real-time) gemeint.</p>
 
-<p>Das <b>Encoding</b> ist der Prozess rohe ("raw") video und audio daten zu komprimieren ("compression"), damit diese gesendet und angesehen werden kann. Dabei gibt es zwei Möglichkeiten: 1.) Bei <b>Software encoding</b> benutzt eine Software die CPU des Computers um die A/V Daten zu komprimieren. Das ist sehr resourcen-intensiv erlaubt aber eine bessere Bildqualität. 2.) Im Falle von <b>Hardware encoding</b> wird extra Hardware ()benzt, welche die A/V Daten komprimiert.</p>
+<p>Das <b>Encoding</b> ist der Prozess rohe ("raw") Video und Audio Daten zu komprimieren ("compression"), damit diese gesendet und angesehen werden kann. Dabei gibt es zwei Möglichkeiten: 1.) Bei <b>Software encoding</b> benutzt eine Software die CPU (Prozessor) des Computers um die A/V Daten zu komprimieren. Das ist sehr resourcen-intensiv erlaubt aber eine bessere Bildqualität. 2.) Im Falle von <b>Hardware encoding</b> wird extra Hardware (Grafikkarte) benutzt, welche die A/V Daten komprimiert.</p>
 
-<p>Die <b>Bitrate</b> beschreibt die Grösse der Datei, welche im Sekundentakt anwächst. Wenn ein Video mit 1500kps (Kilobits pro Sekunde) aufgenommen wird, ergibt das eine Datei, die 188 Kilobyte (1 byte = 8 bit) pro Videosekunde gross ist.</p>
+<p>Die <b>Bitrate</b> beschreibt die Grösse der Datei, welche im Sekundentakt anwächst. Wenn ein Video mit 1,5kbps (Kilobits pro Sekunde) aufgenommen wird, ergibt das eine Datei, die 188 Kilobyte (1 byte = 8 bit) pro Videosekunde gross ist.</p>
 
 <p><b>Frames-per-second (FPS)</b> ist die Anzahl der Bilder, welche ein Computer pro Sekunde berechnen kann, während dieser eine Aufgabe, wie zB. das Streaming, durchführt. Eine geringe FPS Zahl lässt ein Video ruckelig und abgehackt erscheinen.</p>
+<br>
+
+<p><b>1080p/720p</b> beschreibt die vertikale Auflösung eines Videobildes bei einem Aspektverhältnis von 16:9 in Pixel. D.h. die Auflösung 1080p entspricht 1920*1080 Pixel und 720p entspricht 1280*720 Pixel. Das "p" steht für "progressive scan" und kann im Zuge dieses Tutorial ignoriert werden.</p>  
 </blockquote>
 
-<p>Anders als bei der Aufnahme von Videos für zB. Youtube, wird beim Streamen keine Videodatei auf Ihrer Festplatte abgelegt, die man bearbeiten oder schneiden könnte. Stattdessen wird das Video live von der Kamera auf einen Server gestreamt, worüber andere Menschen das Video ansehen können. Daher für das Live A/V Streaming ein guter PC gebraucht, damit alle Daten ordentlich am Server ankommen und die Zuseher*innen flüssige, scharfe Videos zu sehen bekommen.<p>
+<p>Anders als bei der Aufnahme von Videos für zB. Youtube, wird beim Streamen keine Videodatei auf Ihrer Festplatte abgelegt, die man bearbeiten oder schneiden könnte. Stattdessen wird das Video live von der Kamera auf einen Server gestreamt, worüber andere Menschen das Video ansehen können. Daher wird für das Live A/V Streaming ein guter PC gebraucht, damit alle Daten ordentlich am Server ankommen und die Zuseher*innen flüssige, scharfe Videos zu sehen bekommen.<p>
  
+<p>Damit es zu keinen Darstellungs- und Übertragungsproblemen kommt sollten Sie ein Desktop Gerät benutzen, welches mindestens über einen Intel Core i5-4670 Prozessor (oder AMD Equivalent) und 8GB RAM verfügt. (Im Falle von Hardware Encoding mindestens eine Radeon RX570 oder Equivalent). Weiters ist dringend anzuraten den Computer via einem Ethernet Kabel mit dem Internet zu verbinden und eine entsprechend schnelle Verbindung zu wählen. Damit sollte es möglich sein Videos in 1080p, 3000kbps bei guter FPS-Zahl zu encodieren. Pi*Daumen kann gesagt werden, dass ein Stream mit 720p/1500kbps/30+FPS bereits eine durchaus annehmbare Video-Erfahrung liefert.</p>
+
 
 
 
