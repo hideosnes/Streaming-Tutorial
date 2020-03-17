@@ -117,7 +117,7 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
  
 <a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de"><b>Smart Recorder</b></a>: Aufnehmen, Bearbeiten und Teilen von Audio am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=dW7CdjlfjZE">Video Tutorial</a>
 
-<a href="https://www.audacityteam.org/"><b>Audacity</b></a>: Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
+<a href="https://www.audacityteam.org/"><b>Audacity</b></a>: Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
 
 <a href="https://freesound.org/"><b>Freesound</b></a>: Download von lizenfreien Audiosamples und Sounds.
 
@@ -126,6 +126,14 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 <h3>Video</h3>
 
 <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot&hl=en"><b>InShot</b></a>: Bearbeiten von Video am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=Nb77UsFf5yc">Video Tutorial</a>
+
+<a href="http://fixounet.free.fr/avidemux/"><b>InShot</b></a>: Bearbeiten von Video am <b>Desktop PC</b> - <a href="https://www.youtube.com/watch?v=thWHaSKx3wA">Video Tutorial</a>
+
+<a href="https://www.pexels.com/videos/"><b>Pexels</b></a> & <a href="https://pixabay.com/videos/"><b>Pixabay</b></a>: Download von lizenzfreien Stock Videos.
+
+<a href="https://www.youtube.com/"><b>Youtube</b></a> & <a href="https://vimeo.com/"><b>Vimeo</b></a>: Upload und Onlinestorage für Videos.
+
+
 
 <a href="https://www.dev47apps.com/"><b>DroidCam</b></a>: Mobiltelefon als 720p <b>USB/Wifi Webcam</b> für PC benutzen. - <a href="https://www.youtube.com/watch?v=dii2nOHniNQ">Video Tutorial</a>
 
