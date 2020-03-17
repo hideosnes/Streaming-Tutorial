@@ -113,12 +113,12 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
 <h2 id="#software">Software</h2>
 <p>In diesem Kapitel werde ich mich darauf beschränken getestete FOSS-Produktionspipelines aufzuzählen. Besonders in diesem Kapitel gilt, dass sehr viele Wege nach Rom führen und ich versuche mich daher auf leichte Verfügbarkeit und Automatisierungskapazitäten der Software zu fokussieren.</p>
 
-<h3>Audio/h3>
+<h3>Audio</h3>
  
-<a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de">Smart Recorder</a>
+<a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de"><h4>Smart Recorder</h4></a>
 Aufnehmen, Bearbeiten und Sharing von Audio am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=dW7CdjlfjZE">Video Tutorial</a>
 
-<a href="https://www.audacityteam.org/"><h3>Audacity</h3></a>
+<a href="https://www.audacityteam.org/"><h5>Audacity</h5></a>
 Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
 
 
