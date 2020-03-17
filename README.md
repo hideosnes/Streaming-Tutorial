@@ -163,16 +163,19 @@ Neben FB, Insta und YT gibt es folgende Portale, die sich auf das Livestreaming 
 
 <h3>Audio & Video</h3>
 
+<p> Grundsätzlich kann man davon ausgehen, dass beinahe alle Podcast-Hosts eine Form der Paywall anbieten, mit der man einzelne Videos entweder gegen Entgeld freischalten oder für eine gewisse Zeit "mieten" kann.
+
 <b>Direkte Einnahmen</b> können bei Podcasts Videos durch <b>Sponsorings & Product Placements</b> erwirtschaftet werden. Auch wenn Sponsorings zeitaufwendig sind und eine gewisse Community-Groesse voraussetzen, besteht durchaus die Möglichkeit in einzelnen Episoden, meist am Anfang oder am Ende - eine Firma oder ein Produkt zu bewerben. Auch das Bewerben der eigenen Produkte und Onlineshops ist möglich. Eine weitere Möglichkeit Einnahmen zu generieren bietet die Bewerbung des eigenen <a href="https://www.patreon.com/">Patreon-Accounts</a> oder <a href="https://www.paypal.com/at/home">Paypal-Kontos</a>.
 
 <b>Indirekte Einnahmen</b> lassen sich durch Affiliate Product Placement generieren. <b>Amazon</b> bietet ein einfaches und transparentes Vergütungsmodell und man findet man so ziemlich jedes Produkt. Bei <b>Clickbank & Digistore</b> findet man vor allem Kurse und Programme und pro Verkauf erhält man sogar bis zu +50% Umsatzbeteiligung.
 
 <h3>Live A/V</h3>
+<p>Zum derzeitigen Stand bietet Twitch für Kultureinrichtungen wesentlich spannendere Möglichkeiten zur Monetarisierung von Contents an.</p>
 
 <b>Twitch</b> bietet vier Monetisierungsstrategien an:
 <ol>
  <li><b>Trinkgeld</b> via Paypal Donation-Button</li>
- <li><b>Channel Subscriptions</b> bei denen User Bonuscontents (zB. Emotes) und Zugang zum Videoarchiv oder exklusiven Videos kaufen können.</li>
+ <li><b>Channel Subscriptions</b> bei denen User Bonuscontents (zB. Emotes) und Zugang zum Videoarchiv oder exklusiven Videos (Paywall) kaufen können.</li>
  <li><b>Bits</b> sind Cheers und Emotes, die während dem Stream für alle Teilnehmer*innen sichtbar sind.</li>
  <li>Ein Teil der Einnahmen durch <b>Werbung</b> kann von Streamer*innen beansprucht werden.</li>
 </ol>
