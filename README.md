@@ -100,10 +100,26 @@ Ein Tutorial in dem die Potentiale und technischen Hürden erklärt werden, um e
  
 <p>Damit es zu keinen Darstellungs- und Übertragungsproblemen kommt sollten Sie ein Desktop Gerät benutzen, welches mindestens über einen Intel Core i5-4670 Prozessor (oder Equivalent) und 8GB RAM verfügt. (Im Falle von Hardware Encoding mindestens eine Radeon RX570 oder Equivalent). Weiters ist dringend anzuraten den Computer via einem Ethernet Kabel mit dem Internet zu verbinden und eine entsprechend schnelle Verbindung zu wählen. Damit sollte es möglich sein Videos in 1080p, 3000kbps bei guter FPS-Zahl zu encodieren. Pi*Daumen kann gesagt werden, dass ein Stream mit 720p/1500kbps/30+FPS bereits eine durchaus annehmbare Video-Erfahrung liefert. Es ist natürlich möglich mit nicht so leistungsstarker Hardware zu streamen, jedoch kann das je nach Inhalt und Rechenaufwand zu Frame-Drops - das sind ungewollte Sprünge im Video - oder verwaschenen, unscharfen Videobildern führen.</p>
 
-<p>Neben einem PC benötigt man auch eine <a href="https://www.conrad.at/de/p/creative-live-cam-sync-hd-720p-hd-webcam-1280-x-720-pixel-standfuss-klemm-halterung-352288.html">USB Webcam</b>. Beachtenswert ist hier die Maximalauflösung der Kamera. D.h. mit einer 720p Auflösung lassen sich keine 1080p Videos streamen, umgekehrt geht das jedoch problemlos. Um nicht unnötig Encodierungsresourcen zu verschwenden, sollte man darauf achten, dass die Grösse der Aufnahme 1:1 der Grösse des gestreamten Videos - 1080p oder 720p - entspricht. Camcorder lassen sich meist problemlos an per <a href="https://www.conrad.at/de/p/speaka-professional-hdmi-anschlusskabel-1x-hdmi-stecker-1x-hdmi-stecker-1-50-m-schwarz-325235.html">HDMI Kabel</a> an die Grafikkarte anschliessen und via Hardware encoding zum Streamen nutzen. Bei digitalen Spiegelreflexkameras kommt es sehr stark auf das Modell an, ob man die Kamera zum Streamen benutzen kann, oder nicht. Manche Kameras benötigen ein externes Videointerface, um für Livestreams verwendet zu werden, wovon jedoch - bei mangelnder Rechenleistung - abgeraten wird. Mit der Android-App <a href="https://www.dev47apps.com/">DroidCam</a> kann man auch ein Mobilgerät als 720p Webcam verwenden.</p>
+<p>Neben einem PC benötigt man auch eine <a href="https://www.conrad.at/de/p/creative-live-cam-sync-hd-720p-hd-webcam-1280-x-720-pixel-standfuss-klemm-halterung-352288.html">USB Webcam</a>. Beachtenswert ist hier die Maximalauflösung der Kamera. D.h. mit einer 720p Auflösung lassen sich keine 1080p Videos streamen, umgekehrt geht das jedoch problemlos. Um nicht unnötig Encodierungsresourcen zu verschwenden, sollte man darauf achten, dass die Grösse der Aufnahme 1:1 der Grösse des gestreamten Videos - 1080p oder 720p - entspricht. Camcorder lassen sich meist problemlos per <a href="https://www.conrad.at/de/p/speaka-professional-hdmi-anschlusskabel-1x-hdmi-stecker-1x-hdmi-stecker-1-50-m-schwarz-325235.html">HDMI Kabel</a> und iFdF. entsprechendem Adapter an die Grafikkarte anschliessen und via Hardware encoding zum Streamen nutzen. Bei digitalen Spiegelreflexkameras kommt es sehr stark auf das Modell an, ob man die Kamera benutzen kann, oder nicht. Manche Kameras benötigen ein externes Videointerface, um für Livestreams verwendet zu werden, wovon jedoch - bei mangelnder Rechenleistung - abgeraten wird. Mit der Android-App <a href="https://www.dev47apps.com/">DroidCam</a> kann man auch ein Mobilgerät als 720p Wifi oder USB Webcam verwenden.</p>
 
+<p>Bei Streaming-Software handelt es sich um zweckorientierte Software zum Encodieren und Hochladen von Videodaten. <a href="https://obsproject.com/">Open Broadcaster Software</a> und <a href="https://www.xsplit.com/">XSplit</a> sind beliebte Beispiele, die das Encodieren und das Hochladen über einen Social Media oder Streaming Plattform Account fast gänzlich automatisieren. Mehr dazu im <a href="#software">Software Kapitel</a>.</p>
 
+<br>
+<a href="#inhalte">Zurück nach oben</a>
+<br>
 
+<!-- Software -->
+
+<h2 id="#software">Software</h2>
+<p>In diesem Kapitel werde ich mich darauf beschränken getestete FOSS-Produktionspipelines aufzuzählen. Besonders in diesem Kapitel gilt, dass sehr viele Wege nach Rom führen und ich versuche mich daher auf leichte Verfügbarkeit und Automatisierungskapazitäten der Software zu fokussieren.</p>
+
+<h3>Audio/h3>
+ 
+<a href="https://play.google.com/store/apps/details?id=com.andrwq.recorder&hl=de&hl=de">Smart Recorder</a>
+Aufnehmen, Bearbeiten und Sharing von Audio am <b>Mobiltelefon</b> - <a href="https://www.youtube.com/watch?v=dW7CdjlfjZE">Video Tutorial</a>
+
+<a href="https://www.audacityteam.org/"><h3>Audacity</h3></a>
+Aufnehmen und Bearbeiten von Audio am <b>Desktop PC</b> (Win, MacOs, Linux) - <a href="https://www.youtube.com/watch?v=Vn7HYyopGXk">Video Tutorial</a>
 
 
 
