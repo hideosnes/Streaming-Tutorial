@@ -145,9 +145,46 @@ Nachdem Sie Ihr <a href="#hardware">Hardware-Setup</a> vorbereitet, eine Streami
 <a href="https://www.xsplit.com/"><b>XSplit</b></a>: Software zum Encodieren und Hochladen von <b>Livestreams</b> - <a href="https://www.youtube.com/watch?v=v9tLRICR1W4">Video Tutorial</a>
 
 <a href="https://restream.io/"><b>Restream</b></a>: Einen Livestream an 30+ <b>Soziale Plattformen</b> gleichzeitig senden.
-<br>
+<br><br>
 Neben FB, Insta und YT gibt es folgende Portale, die sich auf das Livestreaming spezialisiert haben:<br>
 
 <a href="https://www.twitch.tv/"><b>TwitchTV</b></a>: Ursprünglich wurde TwitchTV zum Stream von Computerspielen entwickelt, jedoch hat sich inzwischen eine breite Community an Livestreamern zu den verschiedensten Themen gebildet.
 
 <a href="https://mixer.com/"><b>Mixer</b></a>: Als ebenbürtige Alternative zu Twitch gilt Mixer und bietet neben Streams von Computerspielen auch eine Lifestyle-Stream-Community.
+
+<br>
+<a href="#inhalte">Zurück nach oben</a>
+<br>
+
+<!-- Monetarisierung -->
+
+<h2 id="#monetarisierung">Monetarisierung</h2>
+<p>Monetarisierungsmöglichkeiten für Community Formate und Anleitungen finden sich mit einer raschen Google-Suche wie Sand am Meer. Daher konzentriere ich mich hier auf unmittelbare bzw. Event-orientierte Monetarisierungsstrategien.
+
+<h3>Audio & Video</h3>
+
+<b>Direkte Einnahmen</b> können bei Podcasts Videos durch <b>Sponsorings & Product Placements</b> erwirtschaftet werden. Auch wenn Sponsorings zeitaufwendig sind und eine gewisse Community-Groesse voraussetzen, besteht durchaus die Möglichkeit in einzelnen Episoden, meist am Anfang oder am Ende - eine Firma oder ein Produkt zu bewerben. Auch das Bewerben der eigenen Produkte und Onlineshops ist möglich. Eine weitere Möglichkeit Einnahmen zu generieren bietet die Bewerbung des eigenen <a href="https://www.patreon.com/">Patreon-Accounts</a> oder <a href="https://www.paypal.com/at/home">Paypal-Kontos</a>.
+
+<b>Indirekte Einnahmen</b> lassen sich durch Affiliate Product Placement generieren. <b>Amazon</b> bietet ein einfaches und transparentes Vergütungsmodell und man findet man so ziemlich jedes Produkt. Bei <b>Clickbank & Digistore</b> findet man vor allem Kurse und Programme und pro Verkauf erhält man sogar bis zu +50% Umsatzbeteiligung.
+
+<h3>Live A/V</h3>
+
+<b>Twitch</b> bietet vier Monetisierungsstrategien an:
+<ol>
+ <li><b>Trinkgeld</b> via Paypal Donation-Button</li>
+ <li><b>Channel Subscriptions</b> bei denen User Bonuscontents (zB. Emotes) und Zugang zum Videoarchiv oder exklusiven Videos kaufen können.</li>
+ <li><b>Bits</b> sind Cheers und Emotes, die während dem Stream für alle Teilnehmer*innen sichtbar sind.</li>
+ <li>Ein Teil der Einnahmen durch <b>Werbung</b> kann von Streamer*innen beansprucht werden.</li>
+</ol>
+
+<b>Mixer</b> bietet sogenannte <b>Embers</b> zum Kauf an. Dabei handelt es sich um eine Form der virtuellen Währung, die User für diverse Goodies auf der Seite verwenden, aber auch Streamer*innen direkt unterstützen können. Der Einsatz eines Paypall-Donation-Buttons konnte derzeit auf Mixer nicht 100% bestätigt werden.
+
+<br>
+<a href="#inhalte">Zurück nach oben</a>
+<br>
+
+<!-- FAQ -->
+
+<h2 id="#faq">FAQ</h2>
+
+<p>Sobald Fragen gestellt werden, sammle und beantwort ich sie in diesem Kapitel.</p>
